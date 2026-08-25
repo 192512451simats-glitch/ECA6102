@@ -1,4 +1,4 @@
-**Digital Forensics Portfolio: Evidence Acquisition, Preservation, Analysis and Reporti**ng
+**Digital Forensics Portfolio: Evidence Acquisition, Preservation, Analysis and Reporting**
 
 Course: Computer Networks and Cybersecurity (ECA61)
 
